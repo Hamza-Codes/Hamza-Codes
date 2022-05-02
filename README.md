@@ -1,4 +1,13 @@
-Hi 👋 My name is Muhammad Ameer Hamza =====================================  Data Analyst | Data Scientist | Pythoneer -----------------------------------------  Hi, I have been learning to code on my own for the past 2 years and after a lot of struggle and switching programming languages and skills, I landed on Python for Data Science. As an electrical engineer, I felt like Data Science was for me.  * 🌍  I'm based in Islamabad, Pakistan. * 🖥️  See my portfolio at [My Portfolio](http://www.google.com) * ✉️  You can contact me at [haamzaayaz@yahoo.com](mailto:haamzaayaz@yahoo.com) * 🚀  I'm currently working on [Data Science Projects](http://www.google.com) * 🧠  I'm learning Tesnor Flow, Computer Vision * 🤝  I'm open to collaborating on Data Science, Data Analysis, Energy Analysis, Climate Change and Mitigation projects. * ⚡  I also have a masters degree in Energy Systems Engineering. I can also make pretty decent websites using the good old HTML, CSS and JS.
+Hi 👋 My name is Muhammad Ameer Hamza =====================================  Data Analyst | Data Scientist | Pythoneer -----------------------------------------  Hi, I have been learning to code on my own for the past 2 years and after a lot of struggle and switching programming languages and skills, I landed on Python for Data Science. As an electrical engineer, I felt like Data Science was for me.  
+
+* 🌍  I'm based in Islamabad, Pakistan. 
+* * 🖥️  See my portfolio at [My Portfolio](http://www.google.com) 
+* * ✉️  You can contact me at [haamzaayaz@yahoo.com](mailto:haamzaayaz@yahoo.com) 
+* * 🚀  I'm currently working on [Data Science Projects](http://www.google.com) 
+* * 🧠  I'm learning Tesnor Flow, Computer Vision 
+* * 🤝  I'm open to collaborating on Data Science, Data Analysis, Energy Analysis, Climate Change and Mitigation projects. 
+* 
+* * ⚡  I also have a masters degree in Energy Systems Engineering. I can also make pretty decent websites using the good old HTML, CSS and JS.
 
 <a href="https://www.twitter.com/ClimateHamza" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ClimateHamza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
